@@ -1,4 +1,4 @@
-# Vault-v17.1
+# Vault-v1.0
 
 A native Android password organizer built with Kotlin + Jetpack Compose.
 
