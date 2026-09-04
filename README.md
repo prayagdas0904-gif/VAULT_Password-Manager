@@ -1,4 +1,4 @@
-# Vault-v1.0
+# Vault
 
 A native Android password organizer built with Kotlin + Jetpack Compose.
 
@@ -20,7 +20,7 @@ A native Android password organizer built with Kotlin + Jetpack Compose.
 * Auto-lock when the app leaves the foreground
 * Basic failed-PIN cooldown
 * Plain-text TXT export with a clear security warning
-* Encrypted vault backup/export and import
+* Encrypted vault backup/export
 * Minimal white/black/lavender UI
 
 
