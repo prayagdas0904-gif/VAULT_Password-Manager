@@ -1,4 +1,4 @@
-# Vault
+# VAULT
 
 A native Android password organizer built with Kotlin + Jetpack Compose.
 
