@@ -13,16 +13,10 @@ A native Android password organizer built with Kotlin + Jetpack Compose.
 * Credential categories
 * Search
 * Favorites
-* Add, edit, and delete credentials (edit preserves the credential ID and favorite status)
-* Password show/hide
-* Copy username/password
-* Private/visible setting
 * Auto-lock when the app leaves the foreground
-* Basic failed-PIN cooldown
-* Plain-text TXT export with a clear security warning
+* Plain-text TXT export 
 * Encrypted vault backup/export
-* Minimal white/black/lavender UI
-
+  
 
 
 ## Important security note
